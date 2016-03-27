@@ -1,8 +1,4 @@
 # Dependencies
-markdown:         redcarpet
-redcarpet:
-  extensions: ["tables"]
-
 pygments:         true
 
 # Permalinks
@@ -11,7 +7,7 @@ permalink:        pretty
 # Setup
 title:            Jin 
 tagline:          'Machine Learning, Computer Vision, NLP, Data Science'
-url:              http://www.joshualande.com
+url:              http://jinified.blogger.com
 
 author:
   name:           'Jin'
